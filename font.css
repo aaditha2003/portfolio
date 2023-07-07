@@ -1,0 +1,42 @@
+b{
+    font-size:70px;
+    color: aqua;
+}
+.kia{
+    display: flex;
+    padding: auto;
+    color:rgb(216, 17, 17):
+}
+.hia{
+    background-color: rgb(160, 154, 154);
+    height: 300px;
+    padding: 2%;
+}
+.pia{
+    background-color: aliceblue;
+    height: 100px;
+    margin: 1.5%;
+    padding: 2%;
+    border-left: 5px solid green;
+}
+span{
+    color: orange;
+    font-size: 40px;
+}
+.sai{
+    background-color: chocolate;
+    margin: 30px;
+    width: 350px;
+    height:550px;
+    display: flex;
+    align-items: center;
+    
+}
+#no{
+    border:2px solid blue ;
+    width: 50px;
+    height: 60px;
+    background-color: blue;
+    margin: 20px;
+    text-align: center;
+}
